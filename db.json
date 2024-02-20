@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "id": "6a7f",
+      "text": "First review",
+      "rating": 10
+    },
+    {
+      "text": "Edited second review",
+      "rating": 9,
+      "id": "98d2"
+    }
+  ]
+}
